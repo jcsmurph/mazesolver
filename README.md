@@ -1,3 +1,3 @@
 # mazesolver
 
-A visualization of an algorithm solving a maze
+A visualization of a DFS algorithm solving a maze
